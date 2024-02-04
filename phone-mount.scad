@@ -1,7 +1,7 @@
-phoneLength=155; // 155
-phoneWidth=75; // 75
-phoneThickness=12.5; // 12
-laptopThickness=5; // 5
+phoneLength=170; // 155
+phoneWidth=81; // 75
+phoneThickness=18.5; // 12
+laptopThickness=7.8; // 5
 clipWidth=80; // 70
 
 /* [Hidden] */
